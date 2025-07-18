@@ -170,7 +170,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Medium Article
 
-This repository accompanies the Medium article: "Getting Started with LangGraph: Building Intelligent Workflows with LLMs"
+This repository accompanies the Medium article: "LangGraph Introduction: Building Intelligent Workflows with OpenAI"
 
 ## Support
 
